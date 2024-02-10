@@ -4,4 +4,4 @@
  3. Isso tudo será realizado com duas tecnologias do Azure Services IA e a sua Machine Learning.
     
 # [Link do passo a passo:](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/02-content-safety.html)
-# [Link do passo a passo](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/01-machine-learning.html)
+# [Link do passo a passo:](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/01-machine-learning.html)
